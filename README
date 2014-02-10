@@ -1,7 +1,11 @@
-    FEAR - FEtching ARticles using Google Scholar
+FEAR - FEtching ARticles using Google Scholar
 
-    Copyright 2014 Ali Parsai, All rights reserved.
-    includes code from scholar.py Copyright 2010-2013 Christian Kreibich.
+Copyright 2014 Ali Parsai, All rights reserved.
+includes code from scholar.py Copyright 2010-2013 Christian Kreibich.
 
-    contact me at ali@parsai.net if you have any suggestions.
+contact me at ali@parsai.net if you have any suggestions.
+
+you need to install Pybtex to be able to use this script.
+
+
 
